@@ -72,6 +72,7 @@
 [_02-4 코틀린 연산자](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-10%20Chapter%2002.md#02-4-%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%97%B0%EC%82%B0%EC%9E%90)
  
 
+
 [03 함수와 함수형 프로그래밍](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-10%20Chapter%2003.md#03-%ED%95%A8%EC%88%98%EC%99%80-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
  
 [_03-1 함수 선언하고 호출하기](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-10%20Chapter%2003.md#%ED%95%A8%EC%88%98-%EC%84%A0%EC%96%B8%ED%95%98%EA%B3%A0-%ED%98%B8%EC%B6%9C%ED%95%98%EA%B8%B0) 
@@ -88,15 +89,14 @@
 
 
 
-[04 프로그램의 흐름 제어]() 
+[04 프로그램의 흐름 제어](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-10%20Chapter%2004.md#04-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%98-%ED%9D%90%EB%A6%84-%EC%A0%9C%EC%96%B4) 
 
-[_04-1 조건문]() 
+[_04-1 조건문](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-10%20Chapter%2004.md#01-%EC%A1%B0%EA%B1%B4%EB%AC%B8) 
 
-[_04-2 반복문]() 
+[_04-2 반복문](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-10%20Chapter%2004.md#02-%EB%B0%98%EB%B3%B5%EB%AC%B8) 
 
-[_04-3 흐름의 중단과 반환]() 
+[_04-3 흐름의 중단과 반환](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-10%20Chapter%2004.md#03-%ED%9D%90%EB%A6%84%EC%9D%98-%EC%A4%91%EB%8B%A8%EA%B3%BC-%EB%B0%98%ED%99%98) 
 
-[_04장 마무리 문제]() 
 
 
 [05 클래스와 객체]() 
@@ -116,26 +116,24 @@
 [_05장 마무리 문제]() 
 
 
-[06 프로퍼티와 초기화]() 
+[06 프로퍼티와 초기화](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-17%20Chapter%2006.md#06-%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%EC%99%80-%EC%B4%88%EA%B8%B0%ED%99%94) 
 
-[_06-1 프로퍼티의 접근]() 
+[_06-1 프로퍼티의 접근](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-17%20Chapter%2006.md#%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%EC%9D%98-%EC%A0%91%EA%B7%BC) 
 
-[_06-2 지연 초기화와 위임]() 
+[_06-2 지연 초기화와 위임](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-17%20Chapter%2006.md#%EC%A7%80%EC%97%B0-%EC%B4%88%EA%B8%B0%ED%99%94%EC%99%80-%EC%9C%84%EC%9E%84) 
 
-[_06-3 정적 변수와 컴패니언 객체]() 
-
-[_06장 마무리 문제]() 
+[_06-3 정적 변수와 컴패니언 객체](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-17%20Chapter%2006.md#%EC%A0%95%EC%A0%81-%EB%B3%80%EC%88%98%EC%99%80-%EC%BB%B4%ED%8C%A8%EB%8B%88%EC%96%B8-%EA%B0%9D%EC%B2%B4) 
 
 
-[07 다양한 클래스와 인터페이스]() 
 
-[_07-1 추상 클래스와 인터페이스]() 
+[07 다양한 클래스와 인터페이스](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-17%20Chapter%2007.md#07-%EB%8B%A4%EC%96%91%ED%95%9C-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4) 
 
-[_07-2 데이터 클래스와 기타 클래스]() 
+[_07-1 추상 클래스와 인터페이스](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-17%20Chapter%2007.md#01-%EC%B6%94%EC%83%81-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4) 
 
-[_07-3 연산자 오버로딩]() 
+[_07-2 데이터 클래스와 기타 클래스](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-17%20Chapter%2007.md#02-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EA%B8%B0%ED%83%80-%ED%81%B4%EB%9E%98%EC%8A%A4) 
 
-[_07장 마무리 문제]() 
+[_07-3 연산자 오버로딩](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-17%20Chapter%2007.md#03-%EC%97%B0%EC%82%B0%EC%9E%90-%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9) 
+
 
 
 [08 제네릭과 배열]()
@@ -149,19 +147,18 @@
 [_08장 마무리 문제]() 
 
 
-[09 컬렉션]()
+[09 컬렉션](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-24%20Chapter%2009.md#09-%EC%BB%AC%EB%A0%89%EC%85%98)
  
-[_09-1 컬렉션의 구조와 기본]()
+[_09-1 컬렉션의 구조와 기본](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-24%20Chapter%2009.md#%EC%BB%AC%EB%A0%89%EC%85%98%EC%9D%98-%EA%B5%AC%EC%A1%B0%EC%99%80-%EA%B8%B0%EB%B3%B8)
  
-[_09-2 List 활용하기]()
+[_09-2 List 활용하기](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-24%20Chapter%2009.md#list-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)
  
-[_09-3 Set과 Map 활용하기]()
+[_09-3 Set과 Map 활용하기](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-24%20Chapter%2009.md#set%EA%B3%BC-map-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)
  
-[_09-4 컬렉션의 확장 함수]() 
+[_09-4 컬렉션의 확장 함수](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-24%20Chapter%2009.md#%EC%BB%AC%EB%A0%89%EC%85%98%EC%9D%98-%ED%99%95%EC%9E%A5-%ED%95%A8%EC%88%98) 
 
-[_09-5 시퀀스 활용하기]() 
+[_09-5 시퀀스 활용하기](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-24%20Chapter%2009.md#%EC%8B%9C%ED%80%80%EC%8A%A4-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0) 
 
-[_09장 마무리 문제]() 
 
 
 [10 표준 함수와 파일 입출력]() 
