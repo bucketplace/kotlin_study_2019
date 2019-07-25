@@ -61,6 +61,8 @@
 
 [_01장 마무리 문제]
 
+<br/>
+
 [02 변수와 자료형, 연산자](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-10%20Chapter%2002.md#2-%EB%B3%80%EC%88%98%EC%99%80-%EC%9E%90%EB%A3%8C%ED%98%95-%EC%97%B0%EC%82%B0%EC%9E%90)
 
 [_02-1 코틀린 패키지](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-10%20Chapter%2002.md#02-1-%EC%BD%94%ED%8B%80%EB%A6%B0-%ED%8C%A8%ED%82%A4%EC%A7%80)
@@ -71,7 +73,7 @@
  
 [_02-4 코틀린 연산자](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-10%20Chapter%2002.md#02-4-%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%97%B0%EC%82%B0%EC%9E%90)
  
-
+<br/>
 
 [03 함수와 함수형 프로그래밍](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-10%20Chapter%2003.md#03-%ED%95%A8%EC%88%98%EC%99%80-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
  
@@ -87,7 +89,7 @@
 
 [_03-6 함수와 변수의 범위](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-10%20Chapter%2003.md#%ED%95%A8%EC%88%98%EC%99%80-%EB%B3%80%EC%88%98%EC%9D%98-%EB%B2%94%EC%9C%84) 
 
-
+<br/>
 
 [04 프로그램의 흐름 제어](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-10%20Chapter%2004.md#04-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%98-%ED%9D%90%EB%A6%84-%EC%A0%9C%EC%96%B4) 
 
@@ -97,7 +99,7 @@
 
 [_04-3 흐름의 중단과 반환](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-10%20Chapter%2004.md#03-%ED%9D%90%EB%A6%84%EC%9D%98-%EC%A4%91%EB%8B%A8%EA%B3%BC-%EB%B0%98%ED%99%98) 
 
-
+<br/>
 
 [05 클래스와 객체]() 
 
@@ -113,8 +115,7 @@
 
 [_05-6 클래스와 클래스의 관계]() 
 
-[_05장 마무리 문제]() 
-
+<br/>
 
 [06 프로퍼티와 초기화](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-17%20Chapter%2006.md#06-%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%EC%99%80-%EC%B4%88%EA%B8%B0%ED%99%94) 
 
@@ -124,7 +125,7 @@
 
 [_06-3 정적 변수와 컴패니언 객체](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-17%20Chapter%2006.md#%EC%A0%95%EC%A0%81-%EB%B3%80%EC%88%98%EC%99%80-%EC%BB%B4%ED%8C%A8%EB%8B%88%EC%96%B8-%EA%B0%9D%EC%B2%B4) 
 
-
+<br/>
 
 [07 다양한 클래스와 인터페이스](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-17%20Chapter%2007.md#07-%EB%8B%A4%EC%96%91%ED%95%9C-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4) 
 
@@ -134,7 +135,7 @@
 
 [_07-3 연산자 오버로딩](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-17%20Chapter%2007.md#03-%EC%97%B0%EC%82%B0%EC%9E%90-%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9) 
 
-
+<br/>
 
 [08 제네릭과 배열]()
  
@@ -144,8 +145,7 @@
  
 [_08-3 문자열 다루기]()
  
-[_08장 마무리 문제]() 
-
+<br/>
 
 [09 컬렉션](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-24%20Chapter%2009.md#09-%EC%BB%AC%EB%A0%89%EC%85%98)
  
@@ -159,18 +159,17 @@
 
 [_09-5 시퀀스 활용하기](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-24%20Chapter%2009.md#%EC%8B%9C%ED%80%80%EC%8A%A4-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0) 
 
+<br/>
 
+[10 표준 함수와 파일 입출력](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-24%20Chapter%2010.md#10-%ED%91%9C%EC%A4%80-%ED%95%A8%EC%88%98%EC%99%80-%ED%8C%8C%EC%9D%BC-%EC%9E%85%EC%B6%9C%EB%A0%A5) 
 
-[10 표준 함수와 파일 입출력]() 
+[_10-1 코틀린 표준 함수](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-24%20Chapter%2010.md#01-%EC%BD%94%ED%8B%80%EB%A6%B0-%ED%91%9C%EC%A4%80-%ED%95%A8%EC%88%98) 
 
-[_10-1 코틀린 표준 함수]() 
+[_10-2 람다식과 DSL](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-24%20Chapter%2010.md#02-%EB%9E%8C%EB%8B%A4%EC%8B%9D%EA%B3%BC-dsl) 
 
-[_10-2 람다식과 DSL]() 
+[_10-3 파일 입출력](https://github.com/bucketplace/kotlin_study_2019/blob/master/2019-07-24%20Chapter%2010.md#03-%ED%8C%8C%EC%9D%BC-%EC%9E%85%EC%B6%9C%EB%A0%A5) 
 
-[_10-3 파일 입출력]() 
-
-[_10장 마무리 문제]() 
-
+<br/>
 
 [11 코루틴과 동시성 프로그래밍]() 
 
@@ -182,9 +181,7 @@
 
 [_11-4 공유 데이터 문제 알아보기]() 
 
-[_11장 마무리 문제]() 
-
-
+<br/>
 
 [12 안드로이드 앱 개발과 코틀린]() 
 
@@ -194,8 +191,7 @@
 
 [_12-3 안드로이드의 코딩 규칙 알아보기]() 
 
-[_12장 마무리 문제]() 
-
+<br/>
 
 [13 코틀린 안드로이드 확장]() 
 
@@ -206,6 +202,4 @@
 [_13-3 기타 확장 기능과 통신 객체]() 
 
 [_13-4 안드로이드 UI 프로그래밍]() 
-
-[_13장 마무리 문제]() 
 
